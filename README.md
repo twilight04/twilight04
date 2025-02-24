@@ -1,10 +1,10 @@
 Hi 👋 My name is John Carlo Tecson
 ==================================
 
-Web Developer and Designer
+Full Stack Software Developer
 --------------------------
 
-I'm a web developer who loves coding and learning new tech.
+I'm a full stack software developer who loves coding and learning new tech.
 
 * 🌍  I'm based in Philippines
 * 🖥️  See my portfolio at [JCT.dev](http://jctdev.vercel.app)
