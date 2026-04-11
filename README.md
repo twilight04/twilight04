@@ -33,19 +33,6 @@ I'm a software developer based in the Philippines with a passion for building sc
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=twilight04&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=twilight04&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twilight04&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 🤝 Let's Connect
 I'm always open to collaborating on interesting projects or just talking tech!
 
