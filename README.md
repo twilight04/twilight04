@@ -1,9 +1,5 @@
 # Hi there, I'm John Carlo 👋 
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=twilight04&label=Profile%20views&color=0e75b6&style=flat" alt="twilight04" />
-</p>
-
 ### 🚀 Full Stack Software Developer
 I'm a software developer based in the Philippines with a passion for building scalable web applications and exploring the latest in automation and cloud tech.
 
